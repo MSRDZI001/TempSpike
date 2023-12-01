@@ -1,0 +1,8 @@
+version: 0.05
+port_by_name: CP210
+num_devices: 4
+bytes_received: 148
+sleep_period_seconds: 900
+verbose_messages: true
+data_directory: ""
+desiccation_filename: data.txt

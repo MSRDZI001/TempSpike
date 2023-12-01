@@ -1,0 +1,12 @@
+version: 0.05
+#Communication Port Information
+port_by_name: USB Serial
+
+#TempSpike Information
+num_devices: 3
+bytes_received: 148
+sleep_period_seconds: 900
+verbose_messages: False
+data_directory: ""
+desiccation_filename: data.txt
+
